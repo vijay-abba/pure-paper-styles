@@ -2,6 +2,13 @@
     background-color: #F5EDD6 !important;
 }
 
-.header-section-nav-bar .header-section-menu-list {
-    color: #342B19;
+/* Target all anchor links inside your desktop navigation bar */
+#desktop-header-nav-bar .header-section-nav-item a {
+    color: #000000 !important;
+    text-decoration: none; /* Optional: Removes the underline from links */
+}
+
+/* Ensure the SVG chevron icon next to "Shop" turns black as well */
+#desktop-header-nav-bar .header-section-nav-item a svg path {
+    fill: #000000 !important;
 }
