@@ -1,3 +1,7 @@
 .header-section {
     background-color: #F5EDD6 !important;
 }
+
+.header-section-nav-bar .header-section-menu-list {
+    color: #342B19;
+}
