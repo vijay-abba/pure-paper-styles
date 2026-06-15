@@ -1,28 +1,3 @@
-
-/* NAV */
-
-.header-section-nav-item a {
-    color: #342B19;
-}
-
-.nav-menu .nav-button svg {
-    color: #342B19;
-}
-
-[class*="header-section-nav"] svg path {
-    fill: #342B19 !important;
-}
-
-/* Buttons */
-
-.dkn-auth-privacy-link, .dkn-auth-privacy-link:hover {
-    color: #8f79ff !important
-}
-
-.dukaan-auth-modal-btn-primary {
-    background-color: #342B19 !important;
-}
-
-.product-card-buy-btn .without-cart-add-to-bag-button {
-    background: #342B19 !important; 
+.header-section {
+    background-color: #F5EDD6 !important;
 }
