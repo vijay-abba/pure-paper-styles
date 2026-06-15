@@ -23,6 +23,6 @@
     background-color: #342B19 !important;
 }
 
-.product-card-buy-btn {
+.product-card-buy-btn .without-cart-add-to-bag-button {
     background: #342B19 !important; 
 }
